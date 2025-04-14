@@ -1,0 +1,9 @@
+{
+    "UploadServer": {
+        "save_path": "C:\\Users\\JaceZ\\Desktop\\\u65b0\u5efa\u6587\u4ef6\u5939",
+        "port": 9091
+    },
+    "DownloadServer": {
+        "port": 9092
+    }
+}
